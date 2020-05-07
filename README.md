@@ -15,6 +15,9 @@
 |--|--|
 |  |  |
 
+**Download Materials**  
+[ Here ](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/download_materials.md)
+
 **About Me**  
 :jack_o_lantern: Facebook Page - [Legion of LOL](https://web.facebook.com/lolsecmm/)  
 :jack_o_lantern: Website - [Legion of LOL](http://location-href.com/)  
