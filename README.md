@@ -15,7 +15,7 @@
 |--|--|
 |  |  |
 
-**About Me**
-:jack_o_lantern: Facebook Page - [Legion of LOL](https://web.facebook.com/lolsecmm/)
-:jack_o_lantern: Website - [Legion of LOL](http://location-href.com/)
-:jack_o_lantern: Youtube Channel - [Thin Ba Shane](https://www.youtube.com/channel/UCQm58nOLArHOfC5dF9zCxHg)
+**About Me**  
+:jack_o_lantern: Facebook Page - [Legion of LOL](https://web.facebook.com/lolsecmm/)  
+:jack_o_lantern: Website - [Legion of LOL](http://location-href.com/)  
+:jack_o_lantern: Youtube Channel - [Thin Ba Shane](https://www.youtube.com/channel/UCQm58nOLArHOfC5dF9zCxHg)  
