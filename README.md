@@ -8,6 +8,7 @@
 | No | Description | Link |
 |--|--|--|
 | 00 | Introduction |  |
+| 01 | Linux File Permissions | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/01.Linux_File_Permissions.md) |
 
 
 :book: **References**
