@@ -9,6 +9,7 @@
 |--|--|--|
 | 00 | Introduction |  |
 | 01 | Linux File Permissions | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/01.Linux_File_Permissions.md) |
+| 02 | Linux Environment Variables | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/02.Linux_Environment_Variables.md) |
 
 
 :book: **References**
