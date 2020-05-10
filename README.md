@@ -10,6 +10,8 @@
 | 00 | Introduction |  |
 | 01 | Linux File Permissions | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/01.Linux_File_Permissions.md) |
 | 02 | Linux Environment Variables | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/02.Linux_Environment_Variables.md) |
+| 03 | Classic Command Injection | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/03.Classic_Command_Injection.md) |
+| 04 | Linux Scheduled Tasks | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/04.Linux%20Scheduled%20Tasks.md) |
 
 
 :book: **References**
