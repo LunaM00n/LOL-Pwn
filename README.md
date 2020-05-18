@@ -13,7 +13,9 @@
 | 03 | Classic Command Injection | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/03.Classic_Command_Injection.md) |
 | 04 | Linux Scheduled Tasks | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/04.Linux%20Scheduled%20Tasks.md) |
 | 05 | Symbolic Links | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/05.Symbolic_Link.md) |  
-
+| 06 | Race Conditions | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/06.Race_Conditions.md) |
+| 07 | Shared Object Injection | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/07.Shared_Library_Object_Injection.md) |
+| 08 | File Descriptor | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/08.File_Descriptors.md) |
 
 
 :book: **References**
