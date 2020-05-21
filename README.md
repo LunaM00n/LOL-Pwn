@@ -16,8 +16,9 @@
 | 06 | Race Conditions | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/06.Race_Conditions.md) |
 | 07 | Shared Object Injection | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/07.Shared_Library_Object_Injection.md) |
 | 08 | File Descriptor | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/08.File_Descriptors.md) |
-
-
+| 09 | Capability Leaking | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/09.Capabality_Leaking.md) |
+| 10 | File Exhaustion | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/10.File_Exhaustion.md) |
+ 
 :book: **References**
 | Link | Description |
 |--|--|
