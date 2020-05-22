@@ -18,6 +18,7 @@
 | 08 | File Descriptor | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/08.File_Descriptors.md) |
 | 09 | Capability Leaking | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/09.Capabality_Leaking.md) |
 | 10 | File Exhaustion | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/10.File_Exhaustion.md) |
+| 11 | ELF Intro & Binary Patching | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/11.ELF_intro_and_Binary_Patching.md) |
  
 :book: **References**
 | Link | Description |
