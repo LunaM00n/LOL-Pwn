@@ -21,6 +21,7 @@
 | 11 | ELF Intro & Binary Patching | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/11.ELF_intro_and_Binary_Patching.md) |
 | 12 | Program in Memory | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/12.the_program_in_memory.md) |
 | 13 | CPU,Opcode,Assembly | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/13.CPU_Opcode_Assembly.md) |
+| 14 | Buffer Overflow and Hijacking Control Flow | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/14.Buffer_Overflow_and_Hijack_CF.md) |
 ---
  
 :book: **References**
