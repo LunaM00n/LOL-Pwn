@@ -22,6 +22,12 @@
 | 12 | Program in Memory | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/12.the_program_in_memory.md) |
 | 13 | CPU,Opcode,Assembly | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/13.CPU_Opcode_Assembly.md) |
 | 14 | Buffer Overflow and Hijacking Control Flow | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/14.Buffer_Overflow_and_Hijack_CF.md) |
+| 15 | Installing Protostar | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/15.Setting_up_Labs.md) |
+| 16 | Stack - Variable Overwrite | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/16.Stack_Variable_Overwrite.md) |
+| 17 | Stack - Function Redirection | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/17.Stack_Function_Redirection.md) |
+| 18 | x86 Shellcoding | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/18.x86_Shellcoding.md) |
+| 19 | Buffer Overflow Exploit | [Read](https://github.com/LunaM00n/LOL-Pwn/blob/master/Notes/19.Buffer_Overflow_Exploit.md) |
+
 ---
  
 :book: **References**
